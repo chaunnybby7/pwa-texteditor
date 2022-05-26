@@ -1,4 +1,4 @@
-# pwa-texteditor
+# PWA Text Editor
 ```
 The goal of this project is to build a text editor that runs in the browser. 
 
@@ -11,15 +11,10 @@ It features a number of methods that are useful for storing and retrieving data,
   
 <p>
     <img src="https://img.shields.io/github/repo-size/chaunnybby7/portfoliotwopointo" />
-
-
-
   
 <p>
     <img src="https://img.shields.io/badge/express-orange" />
-    <img src="https://img.shields.io/badge/Sequelize-blue"  />
-    <img src="https://img.shields.io/badge/mySQL-blue"  />
-    <img src="https://img.shields.io/badge/dotenv-green" />
+
 </p>
 
 
@@ -38,9 +33,8 @@ For this particular portfolio, I've used HTML.
 
 
 
-https://user-images.githubusercontent.com/97390473/168717672-e0145eab-6d04-428b-b3c9-7a9a112b7df7.mp4
 
-or Go to <a href="https://drive.google.com/file/d/1HnO7HSu77BHBcKCyyRBekKC_sOilirE4/view">Portfolio TwoPointO</a>
+or Go to <a href="">Portfolio TwoPointO</a>
 
 
 
@@ -63,10 +57,10 @@ Click on the Mail icon to send an email to me! 🫰🏻```
 
 ## Links
 
-[Deployed Link](https://chaunnybby7.github.io/portfoliotwopointo/)
+[Deployed Link](https://dry-bayou-86726.herokuapp.com/)
 
 
-[Github Portfolio Twopointo](https://github.com/chaunnybby7/portfoliotwopointo)
+[Github PWA Text-Editor](https://github.com/chaunnybby7/portfoliotwopointo)
 
 ## Authors
 YiLin Ong
