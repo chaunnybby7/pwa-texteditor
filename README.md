@@ -44,17 +44,22 @@ https://user-images.githubusercontent.com/97390473/170607578-5abac649-91be-4689-
 
 Chrome Devtools > Application > Manifest: 
 
-<img width="1807" alt="manifest" src="https://user-images.githubusercontent.com/97390473/170607717-73e597c6-5b71-4c8f-8c83-cb9ac72f2e62.png">
-
+<img width="1736" alt="manifest" src="https://user-images.githubusercontent.com/97390473/170608098-49dd89ad-aed9-4784-8449-ed896253361c.png">
 
 
 Chrome Devtools > Applicaton > Service Worker: 
-<img width="1851" alt="service-workers" src="https://user-images.githubusercontent.com/97390473/170607722-8adad1c4-6f76-45fc-b041-022f83d4adb7.png">
+
+
+<img width="1735" alt="service-workers" src="https://user-images.githubusercontent.com/97390473/170608090-ddcb8e99-ee49-49b4-97f8-8ff74cba48dd.png">
+
+
 
 
 localhost:
 
-<img width="1630" alt="jate" src="https://user-images.githubusercontent.com/97390473/170607737-0f744ecc-4ac5-44dc-b8dd-75f92c8beff7.png">
+
+<img width="1515" alt="jate" src="https://user-images.githubusercontent.com/97390473/170608118-7a178d0d-0ee8-469f-a270-8387d43ef7f1.png">
+
 
 
 
