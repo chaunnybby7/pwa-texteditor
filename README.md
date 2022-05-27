@@ -18,7 +18,7 @@ It features a number of methods that are useful for storing and retrieving data,
 </p>
 
 
-![Top Language](https://img.shields.io/github/languages/top/chaunnybby7/portfoliotwopointo)
+![Top Language](https://img.shields.io/github/languages/top/chaunnybby7/pwa-texteditor)
 
 
    
@@ -34,7 +34,7 @@ For this particular portfolio, I've used HTML.
 
 
 
-or Go to <a href="">Portfolio TwoPointO</a>
+or Go to <a href="">PWA Text Editor</a>
 
 
 
@@ -51,8 +51,6 @@ or Go to <a href="">Portfolio TwoPointO</a>
 
 No installation is needed. Just click on the link to have access to my website. 
 
-Notes: ```Click on the Github, LinkedIn and Twitter icons to be redirected.
-Click on the Mail icon to send an email to me! 🫰🏻```
 
 
 ## Links
@@ -60,7 +58,7 @@ Click on the Mail icon to send an email to me! 🫰🏻```
 [Deployed Link](https://dry-bayou-86726.herokuapp.com/)
 
 
-[Github PWA Text-Editor](https://github.com/chaunnybby7/portfoliotwopointo)
+[Github PWA Text-Editor](https://github.com/chaunnybby7/pwa-texteditor)
 
 ## Authors
 YiLin Ong
