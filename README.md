@@ -4,9 +4,7 @@ The goal of this project is to build a text editor that runs in the browser.
 
 The app will be a single-page application that meets the PWA criteria. It will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
-To build this text editor, I have started with an existing application and implement methods for getting and storing data to an IndexedDB database. There will be a package called `idb`, which is a lightweight wrapper around the IndexedDB API. 
 
-It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
 ```
   
 <p>
@@ -24,9 +22,9 @@ It features a number of methods that are useful for storing and retrieving data,
    
 ## Description
 
-This is another updated portfolio, focusing on the frontend of web development.
+To build this text editor, I have started with an existing application and implement methods for getting and storing data to an IndexedDB database. There will be a package called `idb`, which is a lightweight wrapper around the IndexedDB API. 
 
-For this particular portfolio, I've used HTML. 
+It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
   
 
 ## Demo
