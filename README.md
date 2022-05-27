@@ -30,9 +30,34 @@ It features a number of methods that are useful for storing and retrieving data,
 ## Demo
 
 
+Here's the video of how the Text Editor look like:
 
 
-or Go to <a href="">PWA Text Editor</a>
+https://user-images.githubusercontent.com/97390473/170607578-5abac649-91be-4689-833b-579228e72abf.mp4
+
+
+
+
+
+
+Chrome Devtools > Application > Manifest: 
+
+<img width="1736" alt="manifest" src="https://user-images.githubusercontent.com/97390473/170608098-49dd89ad-aed9-4784-8449-ed896253361c.png">
+
+
+Chrome Devtools > Applicaton > Service Worker: 
+
+
+<img width="1735" alt="service-workers" src="https://user-images.githubusercontent.com/97390473/170608090-ddcb8e99-ee49-49b4-97f8-8ff74cba48dd.png">
+
+
+
+
+localhost:
+
+
+<img width="1515" alt="jate" src="https://user-images.githubusercontent.com/97390473/170608118-7a178d0d-0ee8-469f-a270-8387d43ef7f1.png">
+
 
 
 
