@@ -32,9 +32,29 @@ For this particular portfolio, I've used HTML.
 ## Demo
 
 
+Here's the video of how the Text Editor look like:
 
 
-or Go to <a href="">PWA Text Editor</a>
+https://user-images.githubusercontent.com/97390473/170607578-5abac649-91be-4689-833b-579228e72abf.mp4
+
+
+
+
+
+
+Chrome Devtools > Application > Manifest: 
+
+<img width="1807" alt="manifest" src="https://user-images.githubusercontent.com/97390473/170607717-73e597c6-5b71-4c8f-8c83-cb9ac72f2e62.png">
+
+
+
+Chrome Devtools > Applicaton > Service Worker: 
+<img width="1851" alt="service-workers" src="https://user-images.githubusercontent.com/97390473/170607722-8adad1c4-6f76-45fc-b041-022f83d4adb7.png">
+
+
+localhost:
+
+<img width="1630" alt="jate" src="https://user-images.githubusercontent.com/97390473/170607737-0f744ecc-4ac5-44dc-b8dd-75f92c8beff7.png">
 
 
 
